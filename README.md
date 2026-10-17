@@ -4,7 +4,7 @@
 
 Olá, mundo! 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, graduado em Direito e entusiasta de tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, graduado em Direito e em transição para tecnologia.
 
 Minha trajetória combina pensamento analítico, visão de negócios e curiosidade pela engenharia de software. Atualmente, estou aprofundando meus conhecimentos em programação e explorando como a tecnologia pode transformar problemas complexos em soluções simples, eficientes e seguras.
 
