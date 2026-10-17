@@ -49,7 +49,7 @@ Utilizo meus projetos como laboratório para transformar teoria em prática, exp
 
 **Bazinga! ⚛️**
 
-Segundo Sheldon Cooper, de *The Big Bang Theory*, 73 é o melhor número.
+73 é o melhor número.
 
 - 🔢 73 é o **21º número primo**.
 - 🔄 Seu inverso, 37, é o **12º número primo**.
